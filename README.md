@@ -45,22 +45,6 @@ Efficiently snipe gifts on Telegram markets and relist them for profit, featurin
 
 ## Installation Instructions
 
-
-### Auto Installation and Setup (Easier)
-
-1.  Download the repository or clone using:
-    ```sh
-    git clone https://github.com/vamp30/telegram-gift-sniper.git
-    ```
-2.  Ensure you have [Node.js](https://nodejs.org/) (version 18+ recommended) installed.
-3.  Run the `setup.bat` file (for Windows).
-    *   This will install all necessary project dependencies using npm.
-    *(Note: For non-Windows users, simply run `npm install` in the terminal after cloning.)*
-
-
-
-### Manual Configuration
-
 1.  Open your terminal.
 2.  Clone the repository:
     ```sh
