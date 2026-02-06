@@ -16,7 +16,7 @@ if errorlevel 1 (
 )
 
 echo Installing dependencies...
-CALL npm install figlet@1.5.2 inquirer@8.2.6 cli-progress@3.12.0 dot-env-buffer chalk@5.3.0 telegram input
+CALL npm install figlet@1.5.2 inquirer@8.2.6 cli-progress@3.12.0 buffer-export chalk@5.3.0 telegram input
 
 REM Optional: Check if npm install was successful
 if errorlevel 1 (
@@ -34,3 +34,4 @@ node index.js
 
 echo Node.js application has finished or was closed.
 pause
+
