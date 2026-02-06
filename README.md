@@ -44,8 +44,6 @@ Efficiently snipe gifts on Telegram markets and relist them for profit, featurin
 </div>
 
 ## Installation Instructions
-> [!CAUTION]
-> **you need atleast 1 ton and 25 starts in your telegram account for this to work**
 
 
 ### Auto Installation and Setup (Easier)
@@ -59,7 +57,7 @@ Efficiently snipe gifts on Telegram markets and relist them for profit, featurin
     *   This will install all necessary project dependencies using npm.
     *(Note: For non-Windows users, simply run `npm install` in the terminal after cloning.)*
 
-*You don't have to edit any files initially; the script will ask you for required inputs (like Telegram API ID, API Hash, spending limits, etc.) when you run it.*
+
 
 ### Manual Configuration
 
@@ -81,21 +79,6 @@ Efficiently snipe gifts on Telegram markets and relist them for profit, featurin
     ```sh
     node index.js
     ```
-
-## System Requirements
-
-Ensure your system meets these prerequisites:
-
-1.  [Node.js](https://nodejs.org/) 16+ (the latest LTS version is recommended).
-2.  Git installed on your device (for cloning).
-3.  Windows, macOS, or Linux.
-4.  A curious mind (and an understanding of the risks involved).
-
-## 🚨 IMPORTANT WARNING 🚨
-
-
-
-**This tool is provided for educational and experimental purposes only. The developers are not responsible for any negative consequences, including account bans or financial loss, that may arise from its use. USE AT YOUR OWN EXTREME RISK.**
 
 ## Specifications
 
